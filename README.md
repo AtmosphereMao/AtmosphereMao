@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h2> Hi, I'm AtmosphereMao! 👋
 </h2>
 <p align='left'><a href="https://github.com/AtmosphereMao">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AtmosphereMao&theme=vue&show_icons=true&include_all_commits=true&count_private=true" /></a><img align='right' src="https://atmospheremao.com/uploads/information/20200710194710286.png" width="230"></p> 
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AtmosphereMao&theme=vue&show_icons=true&include_all_commits=true&count_private=true" /></a><img align='right' src="https://home-bucket.obs.cn-south-1.myhuaweicloud.com/store/uploadImage/images/weapp.jpg" width="230"></p> 
 
 ### 👨🏻‍💻  About Me
 
