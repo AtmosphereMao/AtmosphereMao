@@ -58,6 +58,6 @@ const AtmosphereMao = {
 
 - 📗 Blog: [AtmosphereMao Blog](https://atmospheremao.com/)
 - 💬 QQ: 493563560
-- 📫 Email: 493563560@qq.com
+- 📫 Email: atmospheremao@gmail.com
 
 ---
