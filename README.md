@@ -45,12 +45,12 @@ Here are some ideas to get you started:
 
 ```javascript
 const AtmosphereMao = {
-  code: [PHP, Python, Golang, C++/C, JavaScript, HTML],
+  code: [PHP, Python, Golang, C++/C, JavaScript, TypeScript, HTML],
   tools: [PhpStorm, PyCharm, CLion, WebStorm, VSCode, Git, MarkDown],
-  web: [Vue, Bootstarp, Node.js],
-  backend: [Laravel, Gin, Masonite],
-  ai: [Tensorflow, Opencv, Numpy],
-  database: [Redis, MySQL]
+  web: [Vue, Bootstarp, Node.js, React, Next.js],
+  backend: [Laravel, Gin, Masonite, Flask],
+  ai: [Tensorflow, Opencv, Numpy, PyTorch, YOLO],
+  database: [Redis, MySQL, PostgreSQL]
 }
 ```
 
