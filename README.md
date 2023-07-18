@@ -59,6 +59,4 @@ const AtmosphereMao = {
 - 📗 Blog: [AtmosphereMao Blog](https://atmospheremao.com/)
 - 💬 QQ: 493563560
 - 📫 Email: atmospheremao@gmail.com
-- 🏢 Company：a certain Artificial Intelligence company
-- 🔨 Role：Development Engineer
 ---
