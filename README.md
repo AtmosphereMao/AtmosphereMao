@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 
 - 📗 Blog: [AtmosphereMao Blog](https://atmospheremao.com/)
 - 💬 QQ: NDkzNTYzNTYw==
-- 📫 Email: atmospheremao@gmail.com
+- 📫 Email: columbus@atmospheremao.com
 ---
 
 <!-- #region Tool Badges -->
