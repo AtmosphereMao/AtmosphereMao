@@ -43,18 +43,15 @@ Here are some ideas to get you started:
 
 ### 🛠  Tech Stack
 
+![GO][GO-Badge]
 ![PHP][PHP-Badge]
 ![Python][Python-Badge]
-![GO][GO-Badge]
-![React Badge][React-Badge]
-![Vue Badge][Vue-Badge]
-![TypeScript Badge][TypeScript-Badge]
 ![Docker][Docker-Badge]
 ![Kubernetes][Kubernetes-Badge]
 <!-- ![Socket.io][Socket.io-Badge] -->
 
+![Gin][Gin-Badge]
 ![LARAVEL][LARAVEL-Badge]
-![Symfony][Symfony-Badge]
 ![PostgreSQL Badge][PostgreSQL-Badge]
 ![MariaDB][MariaDB-Badge]
 ![Redis][Redis-Badge]
@@ -77,13 +74,14 @@ Here are some ideas to get you started:
 <!-- ![GitHubActions Badge][GitHubActions-Badge] -->
 <!-- ![Rollup.js Badge][Rollup.js-Badge] -->
 
-![Git Badge][Git-Badge]
+<!-- ![Git Badge][Git-Badge]
 ![Gitlab][Gitlab-Badge]
-![PHPSTORM Badge][PHPSTORM-Badge]
 ![GoLand Badge][GoLand-Badge]
+![PHPSTORM Badge][PHPSTORM-Badge]
 ![PyCharm Badge][PyCharm-Badge]
 ![VisualStudioCode Badge][VisualStudioCode-Badge]
-![MacOS Badge][MacOS-Badge]
+![MacOS Badge][MacOS-Badge] -->
+
 <!-- ![VisualStudio Badge][VisualStudio-Badge] -->
 <!-- ![Xcode Badge][Xcode-Badge] -->
 <!-- ![InVision Badge][InVision-Badge] -->
@@ -105,10 +103,11 @@ Here are some ideas to get you started:
 [PostgreSQL-Badge]: https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff&style=for-the-badge
 [Redis-Badge]: https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white "Redis Badge"
 [Socket.io-Badge]: https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white "Socket.io Badge"
+[Gin-Badge]: https://img.shields.io/badge/Gin-000000?style=flat-square&logo=Gin&logoColor=white "Gin Badge"
 
 [PHP-Badge]: https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white "PHP Badge"
 [GO-Badge]: https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white "GO Badge"
-[Kubernetes-Badge]: https://img.shields.io/badge/kubernetes-326ce5.svg?&style=flat-square&logo=kubernetes&logoColor=white "Kubernetes Badge"
+[Kubernetes-Badge]: https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=flat-square&logo=kubernetes&logoColor=white "Kubernetes Badge"
 [Gitlab-Badge]: https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white "Gitlab Badge"
 [Docker-Badge]: https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white "Docker Badge"
 
@@ -173,7 +172,7 @@ Here are some ideas to get you started:
 [GitHubActions-Badge]: https://img.shields.io/badge/-GitHub_Actions-%232088FF?style=flat-square&logo=github-actions&logoColor=white "GitHub Actions Badge"
 
 [VisualStudioCode-Badge]: https://img.shields.io/badge/-Visual_Studio_Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white "Visual Studio Code Badge"
-[PHPSTORM-Badge]: https://img.shields.io/badge/phpstorm-143?style=flat-square&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid "PHPSTORM Badge"
+[PHPSTORM-Badge]: https://img.shields.io/badge/PhpStorm-143?style=flat-square&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid "PHPSTORM Badge"
 [GoLand-Badge]: https://img.shields.io/badge/GoLand-000?style=flat-square&logo=goland&logoColor=black&color=black&labelColor=blue "GoLand Badge"
 [PyCharm-Badge]: https://img.shields.io/badge/PyCharm-000?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green "PyCharm Badge"
 [MacOS-Badge]: https://img.shields.io/badge/-macOS-%23999999?style=flat-square&logo=apple&logoColor=white "macOS Badge"
